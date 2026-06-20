@@ -1,1 +1,4 @@
-capture_packet
+*.out
+*.o
+src/*.out
+src/*.o
